@@ -49,6 +49,7 @@ the pages.
 %doc %{_texmfdistdir}/doc/latex/program/program-demo.tex
 %doc %{_texmfdistdir}/doc/latex/program/program-doc.pdf
 %doc %{_texmfdistdir}/doc/latex/program/program-doc.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -59,3 +60,5 @@ the pages.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
