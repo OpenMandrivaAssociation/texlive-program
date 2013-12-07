@@ -6,7 +6,7 @@
 # catalog-version 3.3.12
 Name:		texlive-program
 Version:	3.3.12
-Release:	2
+Release:	3
 Summary:	Typesetting programs and algorithms
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/program
