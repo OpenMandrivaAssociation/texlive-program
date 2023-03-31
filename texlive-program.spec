@@ -1,6 +1,6 @@
 Name:		texlive-program
 Version:	44214
-Release:	1
+Release:	2
 Summary:	Typesetting programs and algorithms
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/program
