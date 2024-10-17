@@ -3,7 +3,7 @@ Version:	44214
 Release:	2
 Summary:	Typesetting programs and algorithms
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/program
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/program
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/program.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/program.doc.r%{version}.tar.xz
